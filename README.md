@@ -16,3 +16,11 @@
 
 このリポジトリの目的は、
 **「思いつきを腐らせず、誰かの手に渡る可能性を残すこと」** です。
+
+## 日本語版 利用条件（Japanese Edition Use Policy）
+
+本リポジトリの日本語版内容は、非商用目的に限り自由に利用できます。
+引用・参照の際は出典（Misera / LUT）を明記してください。
+商用利用や翻案に関しては、作者への事前連絡をお願いします。
+— This clause applies only to the Japanese edition.
+
